@@ -21,4 +21,3 @@ func rightTriangle()  {
         print("")
     }
 }
-//rightTriangle()
